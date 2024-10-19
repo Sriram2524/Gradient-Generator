@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Gradient-Generator/static/css/main.a67f6b82.chunk.css",
+    "main.js": "/Gradient-Generator/static/js/main.4e615792.chunk.js",
+    "main.js.map": "/Gradient-Generator/static/js/main.4e615792.chunk.js.map",
+    "runtime-main.js": "/Gradient-Generator/static/js/runtime-main.2265d155.js",
+    "runtime-main.js.map": "/Gradient-Generator/static/js/runtime-main.2265d155.js.map",
+    "static/js/2.3e60c8a0.chunk.js": "/Gradient-Generator/static/js/2.3e60c8a0.chunk.js",
+    "static/js/2.3e60c8a0.chunk.js.map": "/Gradient-Generator/static/js/2.3e60c8a0.chunk.js.map",
+    "index.html": "/Gradient-Generator/index.html",
+    "static/css/main.a67f6b82.chunk.css.map": "/Gradient-Generator/static/css/main.a67f6b82.chunk.css.map",
+    "static/js/2.3e60c8a0.chunk.js.LICENSE.txt": "/Gradient-Generator/static/js/2.3e60c8a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2265d155.js",
+    "static/js/2.3e60c8a0.chunk.js",
+    "static/css/main.a67f6b82.chunk.css",
+    "static/js/main.4e615792.chunk.js"
+  ]
+}
